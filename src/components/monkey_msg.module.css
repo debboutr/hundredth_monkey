@@ -6,11 +6,13 @@
 .mono {
     position: absolute;
     top: 121px;
-    left: 47px;
+    left: 42px;
     max-width: 128px;
     height: 100px;
     text-align: center;
     display: flex;
     align-items: center;
     font-size: 18px;
+    font-family: 'Permanent Marker', cursive; 
+    color: #2f1d12;
 }
