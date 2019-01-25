@@ -5,13 +5,10 @@ import Header from "../components/header"
 import Layout from "../components/layout"
 
 export default () => (
-
-<Layout> 
-  <Link to="/contact/">Contact</Link> 
-  <Header headerText="The hundredth monkey phenomenon!" />
-  <p>What a world.</p>
-  <Monkey msg="NUCLEAR WAR IS BAD FOR YOUR OVARIES!"/>
-</Layout>
+  <Layout>
+    <Link to="/page-1/">
+      <Header headerText="The hundredth monkey phenomenon!" />
+    </Link>
+    <Monkey msg="FOR MONKEYS!" />
+  </Layout>
 )
-
-          

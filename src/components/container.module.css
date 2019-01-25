@@ -1,4 +1,7 @@
 .container {
     margin: 3rem auto;
-    max-width: 600px;
+    max-width: 350px;
+    color: rgb(9, 45, 204);
+    /* align-items: center; */
+    /* text-align: center */
   }

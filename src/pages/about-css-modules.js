@@ -7,23 +7,14 @@ import Container from "../components/container"
 
 const User = props => (
   <div className={styles.user}>
-    
     <div className={styles.description}>
       <h2 className={styles.username}>{props.username}</h2>
       <p className={styles.excerpt}>{props.excerpt}</p>
+      <h3>About CSS Modules</h3>
     </div>
-    <br></br>
+    <br />
   </div>
-  
-
 )
-
-// const Prac = props => (
-//   <div>
-//     <div style={styles.doody}><img src="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg" /></div>
-//     <div>d2</div>
-//   </div>
-// )
 
 export default () => (
   <Container>
@@ -39,6 +30,5 @@ export default () => (
       avatar="https://s3.amazonaws.com/uifaces/faces/twitter/vladarbatov/128.jpg"
       excerpt="I'm Bob Smith, a vertically aligned type of guy. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     />
-    {/* <Prac/> */}
   </Container>
 )
