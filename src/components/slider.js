@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import { navigate } from "gatsby"
 import Slider from 'react-rangeslider'
 import 'react-rangeslider/lib/index.css'
 
@@ -22,7 +23,8 @@ class Horizontal extends Component {
 
   handleChangeComplete = () => {
     console.log('Change event completed')
-    window.location.assign('/page-' + this.state.value)
+
+    // window.location.assign('/page-' + this.state.value)
     console.log(this.state.value)
   };
 
@@ -36,7 +38,7 @@ class Horizontal extends Component {
           value={value}
           onChangeStart={this.handleChangeStart}
           onChange={this.handleChange}
-          onChangeComplete={this.handleChangeComplete}
+          onChangeComplete={ () => navigate('/page-' + value)}
         />
         {/* <div className='value'><b>Page : </b>{value}</div> */}
       </div>

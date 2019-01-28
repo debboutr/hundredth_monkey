@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "gatsby"
 import Horizontal from "../slider"
 import "./Toolbar.css"
 
@@ -7,15 +8,17 @@ const toolbar = props => (
     <nav className="toolbar__navigation">
       <div />
       <div className="toolbar__logo">
-        <a href="/">
+        <Link to="/">
           <u>the hundredth monkey</u>
-        </a>
+        </Link>
       </div>
-      <div className="spacer"><Horizontal /></div>
+      <div className="spacer">
+        <Horizontal />
+      </div>
       <div className="toolbar__navigation-items">
         <ul>
           <li>
-            <a href="/">About the Author</a>
+            <Link to="/">About the Author</Link>
           </li>
           {/* <li>
             <a href="/">Users</a>

@@ -9,6 +9,7 @@ export default () => (
     <Link to="/page-1/">
       <Header headerText="The hundredth monkey phenomenon!" />
     </Link>
+    <h3>There is no cure for nuclear war -- ONLY PREVENTION</h3>
     <Monkey msg="FOR MONKEYS!" />
   </Layout>
 )

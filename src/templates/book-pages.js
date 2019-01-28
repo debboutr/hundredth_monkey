@@ -1,8 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Monkey from "../components/monkey_msg"
+// import Monkey from "../components/monkey_msg"
 import Layout from "../components/layout"
-import { nominalTypeHack } from "prop-types";
 
 export default ({ data }) => {
   console.log(data)
