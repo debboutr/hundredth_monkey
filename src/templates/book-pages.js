@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-// import Monkey from "../components/monkey_msg"
+import Monkey from "../components/monkey_msg"
 import Layout from "../components/layout"
 
 export default ({ data }) => {
@@ -12,7 +12,15 @@ export default ({ data }) => {
     fontFamily: 'Gentium Book Basic',
   }
   const post = data.markdownRemark
-  console.log(post.frontmatter)
+  let monkey
+  if (post.frontmatter.monkey_msg !== '') {
+    monkey = <Monkey msg={post.frontmatter.monkey_msg} />
+    console.log(monkey)
+  } else {
+    monkey = <div></div>
+    console.log('empty')
+  }
+  // console.log(post.frontmatter.monkey_msg)
   // console.log(parseInt(post.frontmatter.next.split("-")[1])-1)
   // console.log(post.html)
   return (
@@ -20,7 +28,7 @@ export default ({ data }) => {
       <div>
         <Link to={post.frontmatter.next} style={{ textDecoration: 'none' }}>
           <div style={textStyle} dangerouslySetInnerHTML={{ __html: post.html }} />
-          {/* <Monkey msg="YOUR TESTICLES!" /> */}
+          { monkey }
         </Link>
       </div>
       <Link to={post.frontmatter.previous}>previous{"<<<"}</Link>
