@@ -1,8 +1,7 @@
 ---
 previous: '/page-24'
-next: 'page-26'
-monkey_msg: ' YOUR FAMILY
-'
+next: '/page-26'
+monkey_msg: ' YOUR FAMILY'
 ---
 
 ## <span style="font-size:47px;">Y</span>ou have notices a distant, rumbling background sound. But what does it mean? You can see a mist in the air ahead of you. There's nothing alarming that seems to call for your immediate attention.

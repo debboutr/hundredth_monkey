@@ -1,8 +1,7 @@
 ---
 previous: '/page-34'
-next: 'page-36'
-monkey_msg: ' BABIES
-'
+next: '/page-36'
+monkey_msg: ' BABIES'
 ---
 
 ## <span style="font-size:47px;">A</span> smaller amount of exposure sets you up for cancer in twelve or more years.

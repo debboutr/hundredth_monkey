@@ -1,6 +1,6 @@
 ---
 previous: '/page-10'
-next: 'page-12'
+next: '/page-12'
 monkey_msg: ''
 ---
 

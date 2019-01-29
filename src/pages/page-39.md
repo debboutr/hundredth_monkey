@@ -1,8 +1,7 @@
 ---
 previous: '/page-38'
-next: 'page-40'
-monkey_msg: ' OLD AGE
-'
+next: '/page-40'
+monkey_msg: ' OLD AGE'
 ---
 
 ## <span style="font-size:47px;">W</span>e conducted over 70 nuclear bomb tests around the Marshall Islands between 1946 and 1963.

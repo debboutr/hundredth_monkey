@@ -1,4 +1,5 @@
 import React from "react"
+import { Location } from "@reach/router"
 import { Link } from "gatsby"
 import Horizontal from "../slider"
 import "./Toolbar.css"
@@ -13,16 +14,20 @@ const toolbar = props => (
         </Link>
       </div>
       <div className="spacer">
-        <Horizontal />
+        <Location>
+          {({ location }) => {
+            // console.log('from toolbar ' + location.pathname.split('-').pop())
+            
+            return <Horizontal path={parseInt(location.pathname.split('-').pop())} />
+          }}
+        </Location>
+        
       </div>
       <div className="toolbar__navigation-items">
         <ul>
           <li>
-            <Link to="/">About the Author</Link>
+            <Link to="/">ken keyes, jr.</Link>
           </li>
-          {/* <li>
-            <a href="/">Users</a>
-          </li> */}
         </ul>
       </div>
     </nav>

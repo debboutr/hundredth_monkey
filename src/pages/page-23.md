@@ -1,8 +1,7 @@
 ---
 previous: '/page-22'
-next: 'page-24'
-monkey_msg: ' WINNERS
-'
+next: '/page-24'
+monkey_msg: ' WINNERS'
 ---
 
 ## <span style="font-size:47px;">S</span>uppose you and your family are rafting down an unexplored river.

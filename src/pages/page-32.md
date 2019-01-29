@@ -1,8 +1,7 @@
 ---
 previous: '/page-31'
-next: 'page-33'
-monkey_msg: ' ANIMALS
-'
+next: '/page-33'
+monkey_msg: ' ANIMALS'
 ---
 
 ## <span style="font-size:47px;">I</span>n November, 1980, a group of physicians and scientists held a symposium at the University of California in Berkeley. At this symposium Dr.Kosta Tsipis, Professor of Physics, Massachusetts Institute of Technology, stated,

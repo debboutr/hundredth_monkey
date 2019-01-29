@@ -1,8 +1,7 @@
 ---
 previous: '/page-36'
-next: 'page-38'
-monkey_msg: ' OVARIES
-'
+next: '/page-38'
+monkey_msg: ' OVARIES'
 ---
 
 ## <span style="font-size:47px;">D</span>r. Helen Caldicott writes:

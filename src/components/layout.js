@@ -3,6 +3,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Container from "./container"
 import Toolbar from "./Toolbar/Toolbar"
 
+
 export default ({ children }) => (
   <StaticQuery
     query={graphql`

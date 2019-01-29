@@ -1,8 +1,7 @@
 ---
 previous: '/page-40'
-next: 'page-42'
-monkey_msg: ' YOUR EYES
-'
+next: '/page-42'
+monkey_msg: ' YOUR EYES'
 ---
 
 ## <span style="font-size:47px;">I</span>t's a matter of probability and risk -- not certainty.

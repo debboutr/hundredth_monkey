@@ -1,8 +1,7 @@
 ---
 previous: '/page-26'
-next: 'page-28'
-monkey_msg: ' YOUR BRAIN
-'
+next: '/page-28'
+monkey_msg: ' YOUR BRAIN'
 ---
 
 ## <span style="font-size:47px;">W</span>hat are the signs and the scientific data that are so easy for us to ignore -- but which are giving us a clear warning of a certain catastrophe that lies ahead if we remain on our present course?*

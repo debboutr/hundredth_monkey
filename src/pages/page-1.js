@@ -4,8 +4,8 @@ import Layout from "../components/layout"
 import styles from "./dedication.module.css"
 
 export default () => (
-  <Layout style={{ color: `teal` }}>
-    <Link to="page-7" style={{ textDecoration: 'none' }}>
+  <Layout style={{ color: `teal` }} page="1">
+    <Link to="/page-7" style={{ textDecoration: 'none' }}>
       <h1 className={styles.ded}>
         This book is dedicated to the Dinosaurs, who mutely warn us that a
         species which cannot adapt to changing conditions will become extinct.

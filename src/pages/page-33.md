@@ -1,8 +1,7 @@
 ---
 previous: '/page-32'
-next: 'page-34'
-monkey_msg: ' YOUR COMPLEXION
-'
+next: '/page-34'
+monkey_msg: ' YOUR COMPLEXION'
 ---
 
 ## <span style="font-size:47px;">I</span>f you're within a few miles of a nuclear detonation, you'll be incinerated on the spot!

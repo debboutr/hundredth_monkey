@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
 export default ({ data }) => {
-  console.log(data)
+  // console.log(data)
 
   const textStyle = {
     textDecoration: 'none',
@@ -12,8 +12,9 @@ export default ({ data }) => {
     fontFamily: 'Gentium Book Basic',
   }
   const post = data.markdownRemark
-  // console.log(post.frontmatter.this)
-  console.log(post.html)
+  console.log(post.frontmatter)
+  // console.log(parseInt(post.frontmatter.next.split("-")[1])-1)
+  // console.log(post.html)
   return (
     <Layout>
       <div>
@@ -34,7 +35,7 @@ export const query = graphql`
       frontmatter {
         previous
         next
-        asterisk
+        monkey_msg
       }
     }
   }

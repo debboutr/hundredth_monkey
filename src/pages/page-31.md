@@ -1,8 +1,7 @@
 ---
 previous: '/page-30'
-next: 'page-32'
-monkey_msg: ' CHILDREN
-'
+next: '/page-32'
+monkey_msg: ' CHILDREN'
 ---
 
 ## <span style="font-size:47px;">N</span>uclear submarine workers at Portsmouth, New Hampshire, are developing cancer at a rate that is double the expected incidence.
