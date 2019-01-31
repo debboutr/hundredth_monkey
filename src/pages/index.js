@@ -6,10 +6,10 @@ import Layout from "../components/layout"
 
 export default () => (
   <Layout>
-    <Link to="/page-1/">
+    <Link to="/page-1/" title="click to begin!">
       <Header headerText="The hundredth monkey phenomenon!" />
-    </Link>
     <h3>There is no cure for nuclear war -- ONLY PREVENTION</h3>
     <Monkey msg="FOR MONKEYS!" />
+    </Link>
   </Layout>
 )

@@ -26,7 +26,9 @@ export default ({ data }) => {
   return (
     <Layout>
       <div>
-        <Link to={post.frontmatter.next} style={{ textDecoration: 'none' }}>
+        <Link to={post.frontmatter.next} 
+              style={{ textDecoration: 'none' }}
+              title='click to the next page!'>
           <div style={textStyle} dangerouslySetInnerHTML={{ __html: post.html }} />
           { monkey }
         </Link>
