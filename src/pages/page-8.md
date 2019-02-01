@@ -4,8 +4,8 @@ next: '/page-9'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">T</span>his book does not deal with petty matters.
+## <span style="font-size:47px;">T</span>here is a phenomenon I'd like to tell you about.
 
-## It tells how to operate our lives -- and our world.
+## In it may lie our only hope of a future for our species!
 
-## It tells us how to stay alive!
+## Here is the story of the Hundredth Monkey:

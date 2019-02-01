@@ -1,11 +1,15 @@
 ---
 previous: '/page-36'
 next: '/page-38'
-monkey_msg: ' OVARIES'
+monkey_msg: ' OLD AGE'
 ---
 
-## <span style="font-size:47px;">D</span>r. Helen Caldicott writes:
+## <span style="font-size:47px;">W</span>e conducted over 70 nuclear bomb tests around the Marshall Islands between 1946 and 1963.
 
-> ### As a physician, I contend that nuclear technology threatens life on our planet with extinction. If present trends continue, the air we breathe, the food we eat, and the water we drink will soon be contaminated with enough radioactive pollutants to pose a potential health hazard far greater than any plague humanity has ever experienced. Unknowingly exposed to these radioactive poisons, some of us may be developing cancer right now. Others may be passing damaged genes, the basic chemical units which transmit hereditary characteristics, to future generations. And more of us will inevitably be affected unless we bring about a drastic reversal of our government's pronuclear policies.*
+## Each mushroom cloud scattered trillions of plutonium atoms throughout the world!*
 
-*_Nuclear Madness_ by Dr. Helen Caldicott, p. 1. Bantam Books, 1980. Copyright 1978, 1980 by Helen M. Caldicott.
+## Let's suppose just one particle of plutonium landed in a forest near you.
+
+## It could rest on a limb of a tree, be stirred up in the air and inhaled by a bird.
+
+*By 1970 natives of the Marshall Islands were suffering from increased incidence of cancer, retarded growth and miscarriages.

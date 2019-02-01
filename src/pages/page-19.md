@@ -1,9 +1,10 @@
 ---
 previous: '/page-18'
 next: '/page-20'
-monkey_msg: ''
+monkey_msg: ' YOUR LIFE'
 ---
 
-## <span style="font-size:47px;">"I</span>f I knew then what I know now, I never would have helped to develop the bomb," spoke George Kestiakowsky, an advisor to President Eisenhower who worked on the Manhattan Project.
+## <span style="font-size:47px;">T</span>he only result of a substantial nuclear exchange would be a hollow victory in which the "winners" would be no better off than the losers.
 
-## Let's look at the almost incredible nuclear monster we have created in the last forty years on planet Earth....
+## An all-out nuclear war could make our planet uninhabitable for a million years!
+

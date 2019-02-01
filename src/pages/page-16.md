@@ -4,10 +4,10 @@ next: '/page-17'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">B</span>ut notice,
+## <span style="font-size:47px;">Y</span>our awareness is needed in saving the world from nuclear war.
 
-## A most surprising thing observed by these scientists was that the habit of washing sweet potatoes then jumped over the sea --
+## You may be the "Hundredth Monkey"*....
 
-## Colonies of monkeys on other islands and the mainland troop of monkeys at Takasakiyama began washing their sweet potatoes!*
+## You may furnish the added consciousness energy to create the shared awareness of the urgent necessity to rapidly achieve a nuclear-free world.
 
-*Lifetide by Lyall Watson, pp. 147-148. Bantam Books, 1980. This book gives other fascinating details.
+*A videotape or 16mm movie entitled "The Hundredth Monkey" is available from the Hartley Film Foundation, Inc., Cat Rock Road, Cos Cob, CT 06807 (203) 869-9633. This tape features Dr. Rupert Sheldrake, John White, Robert Theobald and Ken Keyes

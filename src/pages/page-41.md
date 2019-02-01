@@ -1,13 +1,10 @@
 ---
 previous: '/page-40'
 next: '/page-42'
-monkey_msg: ' YOUR EYES'
+monkey_msg: ' FUTURE GENERATIONS'
 ---
 
-## <span style="font-size:47px;">I</span>t's a matter of probability and risk -- not certainty.
-
-## And this same deadly plutonium atom could escape from your remains and be recycled with bad news consequences for the next half-million years!
-
-## "All of us, particularly the inhabitants of the northern hemisphere, carry some plutonium in our lungs and other organs," according to Dr. John T. Edsell, Professor of Biochemistry at Harvard.*
-
-*Dr. John Gofman estimates that, because of the damage to part of their clearance mechanism, the lungs of cigarette smokers "might be a hundred times more sensitive to the effects of plutonium."
+## <span style="font-size:47px;">A</span> 1975 study found that more than 10,000 pounds of this deadly chemical are thinly dispersed in the earth's atmosphere.
+## Your precious body is probably already carrying this hidden handmaiden of genetic ruin and death.*
+## Let's make sure that we don't get additional doses!★!#!
+* Radioactive atoms are already in our food chain. The United States Department of Agriculture in _Food, The Yearbook of Agriculture 1959_, p. 118, reported that strontium-90 from the United States and Russian atomic bomb tests had scattered radioactive strontium-90 over the entire earth. It was first detected in animal bones, dairy products and soil in 1953. It is now in the bodies of all human beings regardless of their age or where they live. The _Bulletin of the Atomic Scienctists_, Vol. XVII, No. 3, p. 44, March 1962, stated that children growing up in the United States have about 6 to 8 times more strontium-90 in their bones than their parents.

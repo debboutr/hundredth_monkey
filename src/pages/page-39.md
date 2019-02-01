@@ -1,15 +1,13 @@
 ---
 previous: '/page-38'
 next: '/page-40'
-monkey_msg: ' OLD AGE'
+monkey_msg: ' YOUR EYES'
 ---
 
-## <span style="font-size:47px;">W</span>e conducted over 70 nuclear bomb tests around the Marshall Islands between 1946 and 1963.
+## <span style="font-size:47px;">I</span>t's a matter of probability and risk -- not certainty.
 
-## Each mushroom cloud scattered trillions of plutonium atoms throughout the world!*
+## And this same deadly plutonium atom could escape from your remains and be recycled with bad news consequences for the next half-million years!
 
-## Let's suppose just one particle of plutonium landed in a forest near you.
+## "All of us, particularly the inhabitants of the northern hemisphere, carry some plutonium in our lungs and other organs," according to Dr. John T. Edsell, Professor of Biochemistry at Harvard.*
 
-## It could rest on a limb of a tree, be stirred up in the air and inhaled by a bird.
-
-*By 1970 natives of the Marshall Islands were suffering from increased incidence of cancer, retarded growth and miscarriages.
+*Dr. John Gofman estimates that, because of the damage to part of their clearance mechanism, the lungs of cigarette smokers "might be a hundred times more sensitive to the effects of plutonium."

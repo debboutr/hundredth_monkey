@@ -4,10 +4,6 @@ next: '/page-23'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">A</span> nuclear war can end the way we live.
+## <span style="font-size:47px;">S</span>everal miles downstream unkown to you lies a huge waterfall that will fling you and your family an the rocks below.
 
-## It cannot be won -- it can only be lost.
-
-## Winning equals losing.
-
-## The word "war" is to mild to apply to this nuclear craziness.
+## It is easy to miss the significance of certain signals that are coming to you.

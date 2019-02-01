@@ -4,6 +4,6 @@ next: '/page-43'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">T</span>he Savannah River nuclear plant, according to Dr. Carl Johnson of the Medical School of the University of Colorado, may have already polluted 1,000 square miles of Georgia and South Carolina with plutonium.*
-
-*"And as late as 1979, radioiodine was measured in vegetation in nearby Columbia, Georgia, at a concentration that corresponds to a human thyroid dose of 24,000 millirens per year -- 320 times the amount permitted by the Environmental Protection Agency (EPA). High levels of tritium, which the plant releases routinely, have also been detected in the Savannah River and in local milk and vegetation.... Dr. Karl Z. Morgan, former director of the Health Physica Laboratory at Oak Ridge National Laboratories in Tennessee, notes that in 1969 the flesh of a deer taken from the plant site was discovered to have the equivalent of 2,250 millirems per year of cesium, or 90 times the EPA limit for a human." "Nuclear County" by Zachary Sklar, _Geo_, Vol. 3, p. 32, August, 1981.
+## <span style="font-size:47px;">W</span>e've already trapped ourselves in a small degree of irreversible nuclear damage.
+## To avoid further harm to ourselves and our children, the people of the world must somehow avoid further nuclear insanity.*
+* A leakage on September 11, 1957, and again on May 11, 1969, in the AEC Rocky Flats plutonium plant released plutonium near Denver, Colorado. There has been a 24% increase in cancer in men and a 10% increase in women in the portion of the Denver metropolitain area nearest to the Rocky Flats plutonium processing plant. For details write Jefferson County Health Department, 260 Kipling Street, Lakewood, CO 80226.

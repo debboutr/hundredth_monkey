@@ -4,8 +4,10 @@ next: '/page-39'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">W</span>e are about to drown in nuclear sewage. We now have about one hundred million gallons of dangerous radioactive effluents that no one knows what to do with. And it's globally increasing at a catastrophic rate.
+## <span style="font-size:47px;">T</span>his single plutonium particle could create a radiation-induced disease in the bird, who would die prematurely.
 
-## There is no way to dafely dispose of this extremely dangerous, corrosive, radioactive garbage in leakproof containers that will be continuously protected by competent guards free from war, earthquakes, floods, and tornadoes for hundreds of thousands of years!
+## Suppose the dead bird decomposes in a field and when driving by, you breathe dust that contains this invisible bit of plutonium.
 
-## What right have we to burden future generations with this ever-increasing threat to their well-being?
+## This particle of human-made plutonium could ruin the genetic regulating mechanism in one of your cells that prevents wild cancerous growths.
+
+## Your body could then begin producing cancer cells....

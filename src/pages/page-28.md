@@ -4,12 +4,11 @@ next: '/page-29'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">I</span>n 1970, a pediatrician in Grand Junction, Colorado, noticed an increase in cleft palate, cleft lip, and other birth defects.
+## <span style="font-size:47px;">R</span>obert Minogue and Karl Goller of the Nuclear Regulatory Commission jointly wrote on September 11, 1978:
+> ### The evidence mounts that, within the range of exposure levels encountered by radiation workers, there is no threshold, i.e., a level which can be assumed as safe in an absolute sense....any amount of radiation has a finite probability of inducing a health effect, e.g., cancer.*
 
-## The homes of these people had been built with waste rock and sand from uranium refining operation!
+## All exposure, however small, has a cumulative effect on your body.
 
-## The University of Colorado Medical Center obtained federal funds to investigate this.
+## It all adds up over your entire lifetime.
 
-## But these funds were cut off a year later.
-
-## Why?
+*_Shut Down_, p. 72, The Book Publishing Co., 156 Drakes Lane, Summertown TN 38483. 1979. In the nuclear honeymoon decades of the forties and fifties, the harmful effects of nuclear radiation on human health were underestimated by as much as ten thousand times! Ibid, p. 167.

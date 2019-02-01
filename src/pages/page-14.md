@@ -4,10 +4,10 @@ next: '/page-15'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">T</span>hen something startling took place. In the autumn of 1958, a certain number of Koshima monkeys were washing sweet potatoes -- the exact number is not known.
+## <span style="font-size:47px;">B</span>ut notice,
 
-## Let us suppose that when the sun rose one morning that there were 99 monkeys on Koshima Island who had learned to wash their sweet potatoes.
+## A most surprising thing observed by these scientists was that the habit of washing sweet potatoes then jumped over the sea --
 
-## Let's further suppose that later that morning, the hundredth monkey learned to wash potatoes.
+## Colonies of monkeys on other islands and the mainland troop of monkeys at Takasakiyama began washing their sweet potatoes!*
 
-## THEN IT HAPPENED!
+*Lifetide by Lyall Watson, pp. 147-148. Bantam Books, 1980. This book gives other fascinating details.

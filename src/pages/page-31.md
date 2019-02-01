@@ -1,14 +1,14 @@
 ---
 previous: '/page-30'
 next: '/page-32'
-monkey_msg: ' CHILDREN'
+monkey_msg: ' YOUR COMPLEXION'
 ---
 
-## <span style="font-size:47px;">N</span>uclear submarine workers at Portsmouth, New Hampshire, are developing cancer at a rate that is double the expected incidence.
+## <span style="font-size:47px;">I</span>f you're within a few miles of a nuclear detonation, you'll be incinerated on the spot!
 
-## Dr. Helen Caldicott, author of _Nuclear Madness_, was invited to speak to a meeting of these workers, but only four men appeared.
+## And if you survive the blast, what does the future promise?
 
-## They told her that the Navy had threatened them with the loss of their jobs if they came to hear her talk.
+## The silent but deadly radiation, either directly or from fallout, in a dose of 400 rems could kill you within two weeks.
 
-## Are jobs more important than life itself?
+## Your hair would fall out, your skin would be covered with large ulcers, you would vomit and experience diarrhea and you would die of infection or massive bleeding as your white blood cells and platelets stopped working.
 

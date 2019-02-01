@@ -1,10 +1,12 @@
 ---
 previous: '/page-22'
 next: '/page-24'
-monkey_msg: ' WINNERS'
+monkey_msg: ' YOUR FAMILY'
 ---
 
-## <span style="font-size:47px;">S</span>uppose you and your family are rafting down an unexplored river.
+## <span style="font-size:47px;">Y</span>ou have notices a distant, rumbling background sound. But what does it mean? You can see a mist in the air ahead of you. There's nothing alarming that seems to call for your immediate attention.
 
-## Most of your attention is on steering the raft away from the rocks and keeping it off the banks so that it will not get damaged or stranded.
+## And, besides, you are so busy guiding the raft and keeping it off the rocks that you don't want to think of anything else right now.
+
+## Maybe the rumbling will go away....
 

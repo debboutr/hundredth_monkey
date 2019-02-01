@@ -1,14 +1,13 @@
 ---
 previous: '/page-32'
 next: '/page-34'
-monkey_msg: ' YOUR COMPLEXION'
+monkey_msg: ' BABIES'
 ---
 
-## <span style="font-size:47px;">I</span>f you're within a few miles of a nuclear detonation, you'll be incinerated on the spot!
+## <span style="font-size:47px;">A</span> smaller amount of exposure sets you up for cancer in twelve or more years.
 
-## And if you survive the blast, what does the future promise?
+## Even a tiny invisible particle of plutonium is so radioactive that it can cause cancer or alter your genes so that your children may be deformed at birth!
 
-## The silent but deadly radiation, either directly or from fallout, in a dose of 400 rems could kill you within two weeks.
+## Plutonium has been called "thalidomide forever."
 
-## Your hair would fall out, your skin would be covered with large ulcers, you would vomit and experience diarrhea and you would die of infection or massive bleeding as your white blood cells and platelets stopped working.
-
+*Dr. John Gofman is the co-discoverer of uranium-233 and a leading medical researcher. In his 908-page book _Radiation and Human Health_ (Sierra Club Books, San Francisco, 1981) he tells exactly how radiation produces cancer, leukemia and birth defects. This book enables you to estimate diminished life-expectancy from various radiation exposures. It evaluates the genetic consequences to future generations of our current radiation exposures. This comprehensive book can be ordered from the Committee for Nuclear Responsibility, Box 11207, San Francisco, CA 94101 for $29.95 postpaid.

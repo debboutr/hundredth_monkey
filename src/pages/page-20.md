@@ -4,5 +4,10 @@ next: '/page-21'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">H</span>erbert Scoville, Jr., former deputy director for research of the Central Intelligence Agency warns,
-> ### The unfortunate situation is that today we are moving -- sliding downhill -- toward the probability or the likelihood that a nuclear conflict will actually break out -- and that somebody will use one of these nuclear weapons in a conflict or perhaps even by accident.
+## <span style="font-size:47px;">A</span> nuclear war can end the way we live.
+
+## It cannot be won -- it can only be lost.
+
+## Winning equals losing.
+
+## The word "war" is to mild to apply to this nuclear craziness.

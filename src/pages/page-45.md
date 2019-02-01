@@ -1,10 +1,11 @@
 ---
 previous: '/page-44'
 next: '/page-46'
-monkey_msg: ' THE WORLD'
+monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">O</span>ne million tons of TNT is known as a megaton. A grand total of over three megatons of nonnuclear explosives were used in World War II from 1941 to 1945.
-## Today, nuclear bombs up to 20 megatons each are poised for action.
-## Only one of these could destroy a large city and make the land dangerous for eons!
-## Even larger nuclear warheads are on the drawing boards!
+## <span style="font-size:47px;">D</span>avid Hoffman points out, "In nuclear war, the best defense is not to have an offense."*
+## War no longer functions for settling disputes between nations.
+## War itself must be abolished in the twentieth century -- just as slavery was eliminated during the nineteenth century.
+## Our survival demands new ways of operating our civilization!
+* David Hoffman is the co-founder of "Interhelp," Box 331, Northampton, MA 01061, a think tank focusing on practical ways to get us out of out nuclear predicament.

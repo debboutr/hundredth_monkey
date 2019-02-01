@@ -4,8 +4,4 @@ next: '/page-11'
 monkey_msg: ''
 ---
 
-## <span style="font-size:47px;">T</span>here is a phenomenon I'd like to tell you about.
-
-## In it may lie our only hope of a future for our species!
-
-## Here is the story of the Hundredth Monkey:
+## <span style="font-size:47px;">A</span>n 18-month-old female named Imo found she could solve the problem by washing the potatoes in a nearby stream. She taught this trick to her mother. Her playmates also learned this new way and they taught their mothers, too.
