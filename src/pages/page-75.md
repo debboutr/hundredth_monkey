@@ -1,0 +1,7 @@
+---
+previous: '/page-74'
+next: '/page-76'
+monkey_msg: ' TAXPAYERS'
+---
+
+## <span style="font-size:47px;">D</span>wight D. Eisenhower, who served as a five-star general in World War II and who also served as President of the United States, could speak as "...one who has witnessed the horror and the lingering sadness of war -- as one who knows that another war could utterly destroy this civilization which has been so slowly and painfully built over thousands of years..."

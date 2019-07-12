@@ -4,4 +4,4 @@ next: '/page-59'
 monkey_msg: ''
 ---
 
-# <span style="font-size:47px;">W</span>hat if an error is not detected within minutes?
+# W<span style="font-size:47px;">h</span>at if an error is not detected within minutes?

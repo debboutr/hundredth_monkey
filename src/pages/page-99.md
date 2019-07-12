@@ -1,0 +1,9 @@
+---
+previous: '/page-98'
+next: '/page-100'
+monkey_msg: ' YOUR BODY'
+---
+
+## <span style="font-size:47px;">S</span>econdly, your mind has become divided against your own body.
+## Your thinking has obstructed the free flow of your feelings. Your mental activity constantly crowds out your experiencing the aliveness of your body.
+## You have negelcted your body and instead put your energy into activities involving pride, prestige and that ever-seductive "success" that have not brought you happiness or peace of mind.

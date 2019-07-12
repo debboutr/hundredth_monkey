@@ -1,0 +1,9 @@
+---
+previous: '/page-78'
+next: '/page-80'
+monkey_msg: ' THE WATER SUPPLY'
+---
+
+## <span style="font-size:47px;">T</span>he people of Earth are now spending one million dollars per minute on armaments!
+## Once we stop preparing to blast each other apart, we will find that we can easily solve all the world's hunger, water and shelter problems.*
+*More than $18 billion in arms sales were made to Third World countries in 1980 -- up from $8 billion in 1975. Let them eat -- guns?!?

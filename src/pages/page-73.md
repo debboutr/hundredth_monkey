@@ -1,0 +1,10 @@
+---
+previous: '/page-72'
+next: '/page-74'
+monkey_msg: ' RUSSIA'
+---
+
+## <span style="font-size:47px;">I</span>n 1981 George Kennan, former Ambassador to Moscow, and one of our foremost authorities on Russia, called for immediate, across-the-board 50% reductions in all kinds of nuclear arms as a first step by both sides.
+## He pointed out:
+> ### We have gone on piling weapon upon weapon, missile upon missile, new levels of destructiveness upon old ones, helplessly, almost involuntarily, like men in a drean, like lemmings heading for the sea.
+> ### And the result is that today we have achieved -- we and the Russians together -- in teh creation of these devices and their means of delivery, levels of redundancy of such grotesque dimensions as to defy rational understanding. What a confession of intellectual poverty it would be, what a bankruptcy of intelligent statesmanship, if we had to admit that such blind, senseless acts of destruction were the best we could do!

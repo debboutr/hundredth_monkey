@@ -1,0 +1,10 @@
+---
+previous: '/page-126'
+next: '/page-128'
+monkey_msg: ' YOUR DISPOSITION'
+---
+
+## <span style="font-size:47px;">C</span>an we expand our hearts so that we do not hate even the proponents of nuclear power?
+## Can we learn to feel love and compassion for the people involved in perpetuating nuclear technology even when they're unable or unwilling to understand the reasons for our concern?
+## Always remember that feelings of anger and hatred and separateness are our only problem.
+## Let's not try to save the world by increasing the problem!

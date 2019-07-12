@@ -13,10 +13,12 @@ contents = f.read()
 print (contents)
 
 a=contents.split("/**/")
+a[3]
+
 a = a[3:-1]
 size = 47
 
-count = 7
+count = 5
 for x in a:
 #    break
     big = f'<span style="font-size:{size}px;">{x[4]}</span>'

@@ -1,0 +1,9 @@
+---
+previous: '/page-73'
+next: '/page-75'
+monkey_msg: ''
+---
+
+## <span style="font-size:47px;">D</span>r. Jim Muller of the Harvard Medical School reports that:
+> ### In March, 1981 at a conference held by the International Physicians for the Prevention of Nuclear War, Dr. Yevgeni I. Chazov, Deputy Minister of Health of the U.S.S.R. and cardiologist to Chairman Brazhnev and other Kremlin leaders, revealed that he had spent 35 minutes on national Soviet television discussing the medical consequences of nuclear war. The conference itself was covered in detail by _Pravada_, with a circulation of over 10 million, _Izvestia_, over 8 million, and so on. Statements about the impossibility of surviving nuclear war and appeals to world leaders to prevent it were printed intact.*
+*In June, 1982, Dr. Muller, with Dr. Bernard Lown and Dr. John Pastore, appeared on Soviet television with Dr. Chazov and two other Russian physicians. Dr. Chazov said, "We have come here openly and honestly to tell the people about our movement, whose main objective is the preservation of life on earth." They discussed such topics as the effects of a one-megaton bomb on a city, medical care for the victime and the long-term effects of radiation fallout. The one-hour telecast was seen by an estimated 100 million Russians and it was not censored.

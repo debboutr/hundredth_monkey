@@ -1,0 +1,7 @@
+---
+previous: '/page-107'
+next: '/page-109'
+monkey_msg: ''
+---
+
+## <span style="font-size:47px;">I</span> have the direct experience that in my essence I am something apart from the mental habits that spin out my personality and the current soap opera of my life.

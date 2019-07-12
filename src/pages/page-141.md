@@ -1,0 +1,7 @@
+---
+previous: '/page-140'
+next: '/page-142'
+monkey_msg: ' MENTAL HEALTH'
+---
+
+## <span style="font-size:47px;">T</span>o begin with, you probably can't help others understand unless you have a grasp of the scope of the nuclear jeopardy we all face.

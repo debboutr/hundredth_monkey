@@ -1,8 +1,9 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { StaticQuery, graphql } from "gatsby"
 import Container from "./container"
 import Toolbar from "./Toolbar/Toolbar"
-
+import mono from './title_monkey.png'
 
 export default ({ children }) => (
   <StaticQuery
@@ -18,15 +19,15 @@ export default ({ children }) => (
     `}
     render={data => (
       <div>
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Hundredth Monkey</title>
+          <link rel="shortcut icon" type="image/png" href={mono} />
+          {/* <link rel="canonical" href="http://mysite.com/example" /> */}
+        </Helmet>
         <Toolbar />
-        <main style={{marginTop: '64px'}}>
-          <Container>
-            {/* <Link to={`/`}>
-              <h3>{data.site.siteMetadata.title}</h3>
-            </Link>
-            <Link to={`/about/`}>{data.site.siteMetadata.author}</Link> */}
-            {children}
-          </Container>
+        <main style={{ marginTop: "64px" }}>
+          <Container>{children}</Container>
         </main>
       </div>
     )}

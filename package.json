@@ -16,10 +16,12 @@
     "@reach/router": "^1.2.1",
     "gatsby": "^2.0.91",
     "gatsby-plugin-google-fonts": "0.0.4",
+    "gatsby-plugin-react-helmet": "^3.0.6",
     "gatsby-source-filesystem": "^2.0.16",
     "gatsby-transformer-remark": "^2.2.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
+    "react-helmet": "^5.2.0",
     "react-rangeslider": "^2.2.0"
   },
   "repository": {

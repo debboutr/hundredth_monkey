@@ -58,7 +58,7 @@ class Horizontal extends Component {
       <div className="slider">
         <Slider
           min={0}
-          max={176}
+          max={167}
           value={value}
           onChangeStart={this.handleChangeStart}
           onChange={this.handleChange}
